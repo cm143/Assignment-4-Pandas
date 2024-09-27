@@ -1,1 +1,1 @@
-# Assignment-4-Pandas
+I used pd.read_csv to read the files, pd.merge to merge the files into one, Pandas.Series.unique to find the unique species of flowers, pandas.Series.corr to find correlations between flower variables, pandas.Series.mean to find the average between flower variables, pandas.Series.median to find the median between flower variables, and pandas.Series.std to find the standard deviation between flower variables. I did not add any limitations to the code.
